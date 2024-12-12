@@ -20,4 +20,4 @@ Clientside mods can be suggested here via GitHub issues and PRs.
 
 ### Building and testing the modpack
 
-To build a Modrinth modpack file run `packwiz mr export`.
+To build a Modrinth modpack file run `packwiz mr export`. The modpack is available as a Modrinth pack via [GitHub Actions](https://github.com/cassiancc/Holiday-Server-Packwiz/actions) and an [auto-updating MultiMC/Prism Launcher instance](https://holiday-server-pack.cassian.cc/).
