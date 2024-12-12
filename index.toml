@@ -1,8 +1,170 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "45e1cd69eee1e90eb412742f159570ea92d77bde8e2204a98da4f086ee16783b"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "24efe8fe878bdae3323f2645c3f645cee1c41c290ed1a684eda1a4bbb44b1efa"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "df34a1ed7b309c08deaf42c906fa2ea6f29bb3bf8395ce26593fac4834938496"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerWhitelist.json"
+hash = "fdf38fd061bb38e0389ffb008eb33f454f762e504080e8adf2ed5e3911554a8c"
+
+[[files]]
+file = "config/bedrockify.json"
+hash = "5ccb5a45d42168272d8fe0e0f7c340ce09bc550c9f5daca890abde89056b0469"
+
+[[files]]
+file = "config/bedrockify/bedrockify-ExternalLoadingTips.json"
+hash = "070db915479c969425c248b201e833d01fde22c6c4f0b325a36aa9dbcbaa9a9c"
+
+[[files]]
+file = "config/bedrockify/bedrockifyClient.json"
+hash = "6e3ae4e379baa88e925696a4384766863c61f7a622e5c5a440d7a669da7ff8f5"
+
+[[files]]
+file = "config/bedrockify/bedrockifyCommon.json"
+hash = "439a59d78952f1d3f72f242b473929cd2254f50da5cdd0e3b3e1975c47468146"
+
+[[files]]
+file = "config/bedrockify/bedrockifyMixins.json"
+hash = "04326d1320e08894dbad587605e22ea4a0982ad067155626ccf25eb56d610517"
+
+[[files]]
+file = "config/betterf3.json"
+hash = "87522f737ef0e702a349c4ec28e58ed47fbd1d7875c1eabfd555b6992d6bbfcd"
+
+[[files]]
+file = "config/capes.json5"
+hash = "3d32bfa3fa69fdf7a35c99b8d99d32ec20924bcafd953c60bbedd22c2c0ccb14"
+
+[[files]]
+file = "config/chatpatches.json"
+hash = "0b22ab9f37c4c649615c8ac32a2563d02fece0fc94fc53cc6b2da86c57962d76"
+
+[[files]]
+file = "config/customsplashscreen.json5"
+hash = "edc88686e8127f3308d2fbc62a94d4d44a2fb2b15cb5de84565770a4977c3faa"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "28dd72f6330880004fe9859315847a78af4037db1ba3348a2f28d59d361a2111"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "6f6658b4a600c154e8bceb74fbfd887c9cb159ae389b1c87d29bd90f21ce5b0a"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "38975f3f3c25a40c905172a9ccde5489946048173d6173967f37aadcf602455a"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "16de2cc555494df9f1576f07623d515e5b4256e5c79848a21b1f37b65e68154a"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "c627dc08c22147b36834fccb3b297e922431340b9cd872e32c6051cb1d9ba0c2"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "ff83c4ddab70f0f8cc0ba9b06a39cdcd6762de10c792831823a6d63f0363b461"
+
+[[files]]
+file = "config/jade/usernamecache.json"
+hash = "fbfb14346e532f06bef316726a5e116c11ce2667282d50b0d0181ebadc5de707"
+
+[[files]]
+file = "config/legendarytooltips-common.toml"
+hash = "e0000f8c4aa54b29d2f5eea8394485a2303e4a61a2477983f999d45aa4fb9d9b"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "48f0f8474f8d81080ffe4c52a057ca3e1b0a51114a2ffcebfff173dd1e327c1d"
+
+[[files]]
+file = "config/mousewheelie.hjson"
+hash = "457033e93e81b8f11e22ff96bff3e67d817d63062c34cf56c9f58b36509900b9"
+
+[[files]]
+file = "config/phases-discord-rich-presence.json"
+hash = "40ba836cee88299513c8ddce15692e064fbae57b585b0354ca3045985968aeb7"
+
+[[files]]
+file = "config/scoreboard-overhaul.json"
+hash = "5d733c865bd4ee81e23e58720f2bf10ea955eb1e7359111d95fdb091399cf5cb"
+
+[[files]]
+file = "config/waila/blacklist.json"
+hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
+
+[[files]]
+file = "config/waila/waila.json"
+hash = "392310e5ec2e7cf9b58265a29eda17d336b8877629d8d575bc5551516ab7596b"
+
+[[files]]
+file = "config/waila/waila_plugins.json"
+hash = "4affedcf41137dcf524207899bbb2e114ea5904618fd001b7b575ed176e98819"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "e3f5447c955e63d5b123ab51b265fbe43b857c578e597c7d0198b28a65acc8ef"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "4abb468b81c624629a5bc1407da7f6c0c0a010c9a81d09758aeefee1bc9ebb17"
+
+[[files]]
+file = "config/yosbr/config/bedrockify/bedrockify-ExternalLoadingTips.json"
+hash = "070db915479c969425c248b201e833d01fde22c6c4f0b325a36aa9dbcbaa9a9c"
+
+[[files]]
+file = "config/yosbr/config/bedrockify/bedrockifyClient.json"
+hash = "0a61d0f0168f2cdb1e77f500c8097ab100cfcfb6ea573bb08b19009435f6a9ed"
+
+[[files]]
+file = "config/yosbr/config/bedrockify/bedrockifyCommon.json"
+hash = "74c1054db151e60b9522ff7e6f71f251d5500de92b8701f2a57ab3f5d6b2cd12"
+
+[[files]]
+file = "config/yosbr/config/bedrockify/bedrockifyMixins.json"
+hash = "05634e12419c33bbfb9f382264b862af542c13959f8576fd0425eec80f2633f0"
+
+[[files]]
+file = "config/yosbr/config/blur.json"
+hash = "1d253724e7efbf94cf36bb0ad1964a24d6d85370e28510df930c4f44b86b1156"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "4a13c5f22b0a0b01eb7480551d5bc64934bc7b66648e4ed9d41a33cdc7806031"
+
+[[files]]
+file = "mods/alivent-messager.pw.toml"
+hash = "c5298fad7333977f081231f0940fd6b076d829f1f1b038f1b0055a4a315a93ce"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "db77df7813f6b21f74065229e3ae8568c02209543efadeb1a4eebd40fb520ea8"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "1ad748ea975e540eecde83f3e8346aa8bcc0ea3ea07a55e7c6110957d4c47ed6"
 metafile = true
 
 [[files]]
