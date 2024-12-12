@@ -188,6 +188,11 @@ hash = "920b640490ff800de859ee2fbce00d53fa47d7f5d8b7c66e074fd84dd5e85b8d"
 metafile = true
 
 [[files]]
+file = "mods/creeper-healing.pw.toml"
+hash = "501f9b29402641b39729cc8316d8fb596a14f71db09a64a568fa32e615a1ba67"
+metafile = true
+
+[[files]]
 file = "mods/ender-christmas+.pw.toml"
 hash = "601d4787304ee617b6ba0789e23a76250a168d5151b315cc291d6e90d37938e9"
 metafile = true
@@ -255,6 +260,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "7f4eb7cddc4337e97b3f38e70c90f26a0d58ed69c58d6292d22960144db9d098"
+metafile = true
+
+[[files]]
+file = "mods/monkey-config.pw.toml"
+hash = "630bd0430ec1e60f5c3393b852a9844d5867016146e9caba7b8335e1517aa1c4"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Creeper Healing"
+filename = "creeperhealing-2.0.2-1.21.4+.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/umAqxZ6n/versions/YVNy5d7u/creeperhealing-2.0.2-1.21.4%2B.jar"
+hash-format = "sha1"
+hash = "65c5adee47f22e473527ff654062a5dee42b2c23"
+
+[update]
+[update.modrinth]
+mod-id = "umAqxZ6n"
+version = "YVNy5d7u"
