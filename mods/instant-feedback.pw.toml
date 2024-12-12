@@ -1,0 +1,13 @@
+name = "Instant Feedback"
+filename = "instantfeedback-1.2.1+1.21.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pcDsJNzK/versions/52vZHIEF/instantfeedback-1.2.1%2B1.21.4.jar"
+hash-format = "sha1"
+hash = "6a4f1c1f15ce1b3e0c9595f27fb05de026150bcf"
+
+[update]
+[update.modrinth]
+mod-id = "pcDsJNzK"
+version = "52vZHIEF"

@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "overrides": {
+    "fabric-api": {
+      "-depends": {
+        "minecraft": "IGNORED"
+      }
+    },
+    "immediatelyfast": {
+      "-depends": {
+        "minecraft": "IGNORED"
+      }
+    },
+    "notenoughanimations": {
+      "-depends": {
+        "minecraft": "IGNORED"
+      }
+    },
+    "peek": {
+      "-depends": {
+        "minecraft": "IGNORED"
+      }
+    },
+    "distanthorizons": {
+      "-depends": {
+        "minecraft": "IGNORED"
+      }
+    },
+    "leaves_us_in_peace": {
+      "-depends": {
+        "minecraft": "IGNORED"
+      }
+    },
+    "dynmap": {
+      "-depends": {
+        "minecraft": "IGNORED"
+      }
+    }
+  }
+}

@@ -1,0 +1,136 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "db77df7813f6b21f74065229e3ae8568c02209543efadeb1a4eebd40fb520ea8"
+metafile = true
+
+[[files]]
+file = "mods/clickthrough+.pw.toml"
+hash = "ec5353f8c659fec4761d55e914e518bbf9c18d60c1be18ea415b29e1d900cd22"
+metafile = true
+
+[[files]]
+file = "mods/clientsort.pw.toml"
+hash = "0733f8d7b7383ca61d484877286602bc9ae24df6963e0b12e2b5a5bb9eb44a05"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "45a0acb4872bb2b008dcbd8bd30ef01928a31f4003712fc3afbf5dec68834e0b"
+metafile = true
+
+[[files]]
+file = "mods/connected-doors.pw.toml"
+hash = "920b640490ff800de859ee2fbce00d53fa47d7f5d8b7c66e074fd84dd5e85b8d"
+metafile = true
+
+[[files]]
+file = "mods/ender-christmas+.pw.toml"
+hash = "601d4787304ee617b6ba0789e23a76250a168d5151b315cc291d6e90d37938e9"
+metafile = true
+
+[[files]]
+file = "mods/expanded-storage.pw.toml"
+hash = "67273bff7a2ac05c4a5b43e634b85004d0590ead0b09076025faefdde01b8144"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "21f4059a505d3fd0158cbf814ac46a2a7a5987d1c72c76b17fb03ea04d545747"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "4daf4333e077af7302ee17b14c7d45c245b89be171e2f5f9659033a458371cbb"
+metafile = true
+
+[[files]]
+file = "mods/grind-enchantments.pw.toml"
+hash = "4567515841b96a30d55c049784dc11e9153d6670ee32b4ea782f8f60f367dd99"
+metafile = true
+
+[[files]]
+file = "mods/instant-feedback.pw.toml"
+hash = "55d3a9a590fe134343fbf84de9197ea8dab6d75700c025bd42fee387ab90112a"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "99a382294a854496224ef1d53eff237a95e642baf01c2555895179de4adf9bd7"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "1983d3c4948ac283e002179fba0666bcb24fab4ad4e5aa92a9d1de6d6a4bd3ab"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "57d890a26f6441ecdb4c1285f4979f208da16d9d917565844a50a20bd803d49b"
+metafile = true
+
+[[files]]
+file = "mods/logical-zoom.pw.toml"
+hash = "d86d7d0c2b15b90c172d5334357924b20e7ced3c94c6d5aa492d276a6e1b342b"
+metafile = true
+
+[[files]]
+file = "mods/mavapi.pw.toml"
+hash = "11f447c11677af089fdfc1a9d8acdcbbd007ac2c6deb1730b8dc4d985358b6b3"
+metafile = true
+
+[[files]]
+file = "mods/mavm.pw.toml"
+hash = "9522e54dff45126f0b2cc6d3dbaafbf373da86d5c36d5ea556437031d183bd68"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "64b31dbd546fdbfc44b44e6705f4fa7ba7c67d4f5fac6e1d932ea31c0ffe8e6b"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "7f4eb7cddc4337e97b3f38e70c90f26a0d58ed69c58d6292d22960144db9d098"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "ce5d42529ee247ac041a901de56b2b017c202662d99d6ead3e50b7c9e57f5131"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "f8e9596e1c6345dab08b7bcd01a84409fe8a5dff84e01516be89081a3ad982a1"
+metafile = true
+
+[[files]]
+file = "mods/pyrite.pw.toml"
+hash = "42195a24daf683df82bbf1ef05830c65baed31efe495d561a1de2ce937680f92"
+metafile = true
+
+[[files]]
+file = "mods/sleep-warp-updated.pw.toml"
+hash = "83d4cc287199088345cb142649b57888c7f43224db023ec0038716ece0e272ec"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "3a0e541097f895f31e52f0eb802fc2bbedddc9045bbfc62c37e99b7d7c6faca8"
+metafile = true
+
+[[files]]
+file = "mods/trading+.pw.toml"
+hash = "f8aaf0beb29d3b9acacd54e2fc9aaab5a751e3637624dbcb4777b7ed21ceaf44"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "92e9b0a2761bcb614ca72150e7d41d1afb066b3efafd7268de804e0d1775ba98"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "9146467a2eecd324e3a096316d55191a257420ba81d2ca1e80b9dcfacc496368"
+metafile = true
