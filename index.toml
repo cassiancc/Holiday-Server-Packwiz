@@ -278,6 +278,11 @@ hash = "42195a24daf683df82bbf1ef05830c65baed31efe495d561a1de2ce937680f92"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "c803d271faae47b193e3ba9ca611894252bf55d4c6aab303f56bcf6b183056c7"
+metafile = true
+
+[[files]]
 file = "mods/sleep-warp-updated.pw.toml"
 hash = "83d4cc287199088345cb142649b57888c7f43224db023ec0038716ece0e272ec"
 metafile = true
