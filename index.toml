@@ -214,12 +214,12 @@ metafile = true
 
 [[files]]
 file = "mods/grind-enchantments.pw.toml"
-hash = "4567515841b96a30d55c049784dc11e9153d6670ee32b4ea782f8f60f367dd99"
+hash = "c0655ac3357a9223ea424ab58bc62e397e4a03e138ace4fd95f30aae07ae62a7"
 metafile = true
 
 [[files]]
 file = "mods/instant-feedback.pw.toml"
-hash = "1987ba224aa2fca18b6989c25983d03d255f6725f4b31dee25c6bfcada548e7e"
+hash = "cb12aa17c98061a1df38f6a9462951805586a3dc8b43f95d184752c293ba0fc1"
 metafile = true
 
 [[files]]
