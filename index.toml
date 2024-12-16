@@ -193,6 +193,16 @@ hash = "501f9b29402641b39729cc8316d8fb596a14f71db09a64a568fa32e615a1ba67"
 metafile = true
 
 [[files]]
+file = "mods/creeperconfetti+.pw.toml"
+hash = "4bb60f7076fb0facaf9d6294e106bd3cf73a3c7ab12aade86fd05fd03679d8bf"
+metafile = true
+
+[[files]]
+file = "mods/durability-rework.pw.toml"
+hash = "9203a93ac39b0408770e26f786e7a94348b6331fb0ad34a3ca1a144149cb700a"
+metafile = true
+
+[[files]]
 file = "mods/ender-christmas+.pw.toml"
 hash = "601d4787304ee617b6ba0789e23a76250a168d5151b315cc291d6e90d37938e9"
 metafile = true
@@ -219,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/instant-feedback.pw.toml"
-hash = "cb12aa17c98061a1df38f6a9462951805586a3dc8b43f95d184752c293ba0fc1"
+hash = "69eb6a0bf93a551055af12f88a32b89c5bbbe90f1484cef4e9f0b986ac058294"
 metafile = true
 
 [[files]]
@@ -270,6 +280,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "ce5d42529ee247ac041a901de56b2b017c202662d99d6ead3e50b7c9e57f5131"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "7afd0d8e5f7d6a235f30d7e7863c551e47f09f7bfea5bd2d5cdc0cd738668678"
 metafile = true
 
 [[files]]
