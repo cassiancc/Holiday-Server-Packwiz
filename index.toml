@@ -163,6 +163,11 @@ hash = "db77df7813f6b21f74065229e3ae8568c02209543efadeb1a4eebd40fb520ea8"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e5287e0bfeaec81c0108148e7fd39ddcdd7f372428c157aef89a8e7fcdb6d156"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "1ad748ea975e540eecde83f3e8346aa8bcc0ea3ea07a55e7c6110957d4c47ed6"
 metafile = true
@@ -320,6 +325,11 @@ metafile = true
 [[files]]
 file = "mods/rainbow-christmas.pw.toml"
 hash = "e3b1f727ca805ebc2a187e78d288cf3327c2503f907b03c41509086e9309824f"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "08258b2939f52cf81b758a30be31eb7fea11ad9919adf7644518d7fafd7efb34"
 metafile = true
 
 [[files]]
