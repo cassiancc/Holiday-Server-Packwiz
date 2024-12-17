@@ -318,6 +318,11 @@ hash = "42195a24daf683df82bbf1ef05830c65baed31efe495d561a1de2ce937680f92"
 metafile = true
 
 [[files]]
+file = "mods/rainbow-christmas.pw.toml"
+hash = "e3b1f727ca805ebc2a187e78d288cf3327c2503f907b03c41509086e9309824f"
+metafile = true
+
+[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "c803d271faae47b193e3ba9ca611894252bf55d4c6aab303f56bcf6b183056c7"
 metafile = true
