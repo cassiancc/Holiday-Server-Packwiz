@@ -168,6 +168,16 @@ hash = "e5287e0bfeaec81c0108148e7fd39ddcdd7f372428c157aef89a8e7fcdb6d156"
 metafile = true
 
 [[files]]
+file = "mods/armorstandeditor.pw.toml"
+hash = "71a8c7cb6379f0731afbc843aa90a67e6c9bcbd648133f45f3c24ed2bbab97a0"
+metafile = true
+
+[[files]]
+file = "mods/brewery.pw.toml"
+hash = "2ea08836597e85d9b3f915ec3d98eb579b356faecac59a586c00ea739e54034f"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "1ad748ea975e540eecde83f3e8346aa8bcc0ea3ea07a55e7c6110957d4c47ed6"
 metafile = true
@@ -243,9 +253,18 @@ hash = "64b7e9bbef502e41c5d822b1545a113ab5becbc93eb3ca954b2593cdd077ef59"
 metafile = true
 
 [[files]]
+file = "mods/glide-away.pw.toml"
+hash = "48b6f04f26675d61017565132222ccb8573d370e27f0defdcdbb88c1c1bda56a"
+metafile = true
+
+[[files]]
 file = "mods/grind-enchantments.pw.toml"
 hash = "c0655ac3357a9223ea424ab58bc62e397e4a03e138ace4fd95f30aae07ae62a7"
 metafile = true
+
+[[files]]
+file = "mods/holiday-server-pack-mod-73.jar"
+hash = "59314b81a13651af5e4135040a5b1ae2d985169d82f27f5963511479a4e93fee"
 
 [[files]]
 file = "mods/instant-feedback.pw.toml"
@@ -318,6 +337,16 @@ hash = "f8e9596e1c6345dab08b7bcd01a84409fe8a5dff84e01516be89081a3ad982a1"
 metafile = true
 
 [[files]]
+file = "mods/polydecorations.pw.toml"
+hash = "c441c0828e962045f81ec1e78644a03da9a42e2b718a25f925f00eba6b540e0e"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "64357012b350ca7650019163b1f0e065e1e8fa618db4c1ebdc2d9856dc317e93"
+metafile = true
+
+[[files]]
 file = "mods/pyrite.pw.toml"
 hash = "42195a24daf683df82bbf1ef05830c65baed31efe495d561a1de2ce937680f92"
 metafile = true
@@ -343,6 +372,11 @@ hash = "83d4cc287199088345cb142649b57888c7f43224db023ec0038716ece0e272ec"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "b8cd9f9a9985fce11bf5fdcd7fc8e571a14214210d242adc8b58cf79f2380551"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "3a0e541097f895f31e52f0eb802fc2bbedddc9045bbfc62c37e99b7d7c6faca8"
 metafile = true
@@ -353,6 +387,11 @@ hash = "f8aaf0beb29d3b9acacd54e2fc9aaab5a751e3637624dbcb4777b7ed21ceaf44"
 metafile = true
 
 [[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "ccdb734c33239b694edb96cee3a6c3851d9f9dcaacf419f5fa54c8d955ce7631"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "92e9b0a2761bcb614ca72150e7d41d1afb066b3efafd7268de804e0d1775ba98"
 metafile = true
@@ -360,6 +399,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "9146467a2eecd324e3a096316d55191a257420ba81d2ca1e80b9dcfacc496368"
+metafile = true
+
+[[files]]
+file = "mods/xanders-sodium-options.pw.toml"
+hash = "f0c44cf225c4715b97d52bda1e50c8182058ddd85119c791664fe951dfa75ee7"
 metafile = true
 
 [[files]]
