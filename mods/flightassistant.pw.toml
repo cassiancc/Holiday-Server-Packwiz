@@ -1,0 +1,13 @@
+name = "FlightAssistant"
+filename = "flightassistant-2.3.4+mc1.21.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CWqLEOPt/versions/VWAQ3RMd/flightassistant-2.3.4%2Bmc1.21.2.jar"
+hash-format = "sha1"
+hash = "f208eb0ec1be690f0eb8b3c37fc886e4e29b8ab6"
+
+[update]
+[update.modrinth]
+mod-id = "CWqLEOPt"
+version = "VWAQ3RMd"

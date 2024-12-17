@@ -168,6 +168,11 @@ hash = "1ad748ea975e540eecde83f3e8346aa8bcc0ea3ea07a55e7c6110957d4c47ed6"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "54c7845c9b72c2b89d7e82553d0616ee1ee4288b878a79d3d4168895e861a776"
+metafile = true
+
+[[files]]
 file = "mods/clickthrough+.pw.toml"
 hash = "ec5353f8c659fec4761d55e914e518bbf9c18d60c1be18ea415b29e1d900cd22"
 metafile = true
@@ -198,6 +203,11 @@ hash = "4bb60f7076fb0facaf9d6294e106bd3cf73a3c7ab12aade86fd05fd03679d8bf"
 metafile = true
 
 [[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "59d1e3ec613f8c38d043cfd9cf56306ca93e88ed59bdbdcc5aef6a97d46c56a8"
+metafile = true
+
+[[files]]
 file = "mods/durability-rework.pw.toml"
 hash = "9203a93ac39b0408770e26f786e7a94348b6331fb0ad34a3ca1a144149cb700a"
 metafile = true
@@ -220,6 +230,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "4daf4333e077af7302ee17b14c7d45c245b89be171e2f5f9659033a458371cbb"
+metafile = true
+
+[[files]]
+file = "mods/flightassistant.pw.toml"
+hash = "64b7e9bbef502e41c5d822b1545a113ab5becbc93eb3ca954b2593cdd077ef59"
 metafile = true
 
 [[files]]
@@ -330,4 +345,9 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "9146467a2eecd324e3a096316d55191a257420ba81d2ca1e80b9dcfacc496368"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "7025706e3c3bb9191adac64a3eada81bc31711be08b4bdc4324fc05789a2076a"
 metafile = true
