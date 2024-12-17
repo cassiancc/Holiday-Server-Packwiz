@@ -263,8 +263,8 @@ hash = "c0655ac3357a9223ea424ab58bc62e397e4a03e138ace4fd95f30aae07ae62a7"
 metafile = true
 
 [[files]]
-file = "mods/holiday-server-pack-mod-73.jar"
-hash = "59314b81a13651af5e4135040a5b1ae2d985169d82f27f5963511479a4e93fee"
+file = "mods/holiday-server-pack-mod-76.jar"
+hash = "dce51f18bc92f63f339fa78ac595b9e51fd05edca175f0460cc9c60235096f5b"
 
 [[files]]
 file = "mods/instant-feedback.pw.toml"
