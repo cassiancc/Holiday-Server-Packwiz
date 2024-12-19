@@ -1,0 +1,13 @@
+name = "Columns"
+filename = "columns-1.12.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RllgGJib/versions/cHQ4ld7e/columns-1.12.0.jar"
+hash-format = "sha1"
+hash = "f12624dcd68b3aa92b18bc296544ba3b3579fd32"
+
+[update]
+[update.modrinth]
+mod-id = "RllgGJib"
+version = "cHQ4ld7e"

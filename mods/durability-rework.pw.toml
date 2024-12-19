@@ -1,13 +1,13 @@
 name = "Unbreakable"
-filename = "unbreakable-v1.0.2+1.21.4.jar"
+filename = "unbreakable-v1.0.3+1.21.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IR8T4xSw/versions/SgGVHSmk/unbreakable-v1.0.2%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/IR8T4xSw/versions/Xl26MHNH/unbreakable-v1.0.3%2B1.21.4.jar"
 hash-format = "sha1"
-hash = "36aac5ea040708be751d271164970abfe35d0464"
+hash = "98883af0048513f8bd8282884f4b9af07b9d87cb"
 
 [update]
 [update.modrinth]
 mod-id = "IR8T4xSw"
-version = "SgGVHSmk"
+version = "Xl26MHNH"
