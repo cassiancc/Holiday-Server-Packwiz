@@ -347,6 +347,11 @@ hash = "a373dbcb729b5acdaeb196dca54dc9516d8d8a47bacb83000b896667652556e0"
 metafile = true
 
 [[files]]
+file = "mods/phantom-lucidity.pw.toml"
+hash = "58624b54996bb08cabd5b926503716a2a740447c5145c6b145c9bad9c2951104"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "f8e9596e1c6345dab08b7bcd01a84409fe8a5dff84e01516be89081a3ad982a1"
 metafile = true

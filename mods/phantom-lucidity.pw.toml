@@ -1,0 +1,7 @@
+name = "phantom-lucidity"
+filename = "phantomlucidity-1.0.0.jar"
+
+[download]
+url = "https://github.com/haykam821/Phantom-Lucidity/releases/download/1.0.0/phantomlucidity-1.0.0.jar"
+hash-format = "sha256"
+hash = "80e3a36699bdea3bb726df10f4dd0dc239f873a94c154b171444aa356964c140"
