@@ -66,7 +66,7 @@ hash = "28dd72f6330880004fe9859315847a78af4037db1ba3348a2f28d59d361a2111"
 
 [[files]]
 file = "config/holiday-pack-version"
-hash = "77a60c200656e08ac5403f38b58657ecec155293323bd5313290399b75cf1c3d"
+hash = "5ef6fdf32513aa7cd11f72beccf132b9224d33f271471fff402742887a171edf"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
