@@ -11,3 +11,8 @@ hash = "f208eb0ec1be690f0eb8b3c37fc886e4e29b8ab6"
 [update.modrinth]
 mod-id = "CWqLEOPt"
 version = "VWAQ3RMd"
+
+[option]
+optional = true
+default = true
+description = "Changes the HUD when using an Elytra to resemble a flight simulator."

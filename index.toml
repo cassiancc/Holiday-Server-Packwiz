@@ -187,6 +187,11 @@ hash = "1ad748ea975e540eecde83f3e8346aa8bcc0ea3ea07a55e7c6110957d4c47ed6"
 metafile = true
 
 [[files]]
+file = "mods/chat-signing-hider.pw.toml"
+hash = "5e7d995d3cb71583e639864cd34e056e26a22dcfbbbee661289a798d6ad352da"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "54c7845c9b72c2b89d7e82553d0616ee1ee4288b878a79d3d4168895e861a776"
 metafile = true
@@ -258,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/flightassistant.pw.toml"
-hash = "64b7e9bbef502e41c5d822b1545a113ab5becbc93eb3ca954b2593cdd077ef59"
+hash = "9c91043fdc76f047053d5425fce7d8e1e97d3ae2392d8f2cb6e12241a6892a7a"
 metafile = true
 
 [[files]]
@@ -293,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "57d890a26f6441ecdb4c1285f4979f208da16d9d917565844a50a20bd803d49b"
+hash = "ced0910c871d77f956b478ab4e6075635dcb90af2d35d64f0739335992633f3c"
 metafile = true
 
 [[files]]
@@ -309,6 +314,11 @@ metafile = true
 [[files]]
 file = "mods/mavm.pw.toml"
 hash = "9522e54dff45126f0b2cc6d3dbaafbf373da86d5c36d5ea556437031d183bd68"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "39654a2ab4de5536efccbefab594e0c259011154404eded8d9759e3cecb0cd03"
 metafile = true
 
 [[files]]

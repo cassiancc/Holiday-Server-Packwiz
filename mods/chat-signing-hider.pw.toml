@@ -1,0 +1,13 @@
+name = "Chat Signing Hider"
+filename = "chatsigninghider-fabric-1.21.4-1.0.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6KrNtW32/versions/fmuDVSgR/chatsigninghider-fabric-1.21.4-1.0.5.jar"
+hash-format = "sha1"
+hash = "d6534dab0369331ed9ed6c81c57c5c1a3a766a5a"
+
+[update]
+[update.modrinth]
+mod-id = "6KrNtW32"
+version = "fmuDVSgR"

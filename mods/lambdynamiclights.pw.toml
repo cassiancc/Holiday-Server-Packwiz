@@ -11,3 +11,8 @@ hash = "25164bd8de975951a75ff848080fbdd5177f0238"
 [update.modrinth]
 mod-id = "yBW8D80W"
 version = "YgZzYuBw"
+
+[option]
+optional = true
+default = true
+description = "Adds dynamic lighting to Minecraft."
