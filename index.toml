@@ -363,12 +363,12 @@ metafile = true
 
 [[files]]
 file = "mods/polydecorations.pw.toml"
-hash = "c441c0828e962045f81ec1e78644a03da9a42e2b718a25f925f00eba6b540e0e"
+hash = "be4cedf95bc25bfd2bf0563f7b66675780c43abfcd48fb8bc02b2befb9efc46a"
 metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "64357012b350ca7650019163b1f0e065e1e8fa618db4c1ebdc2d9856dc317e93"
+hash = "32eb436bc2a4073b682b41ae1e90bb126ac6823b2b4af268964636e7e8c02150"
 metafile = true
 
 [[files]]
