@@ -1,0 +1,13 @@
+name = "Phantom Pillows"
+filename = "phantompillows-1.10.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cmtGxfvI/versions/b1ApBgtF/phantompillows-1.10.0.jar"
+hash-format = "sha512"
+hash = "6e423793777ccb637c44313912db7601c0fa44e5dd9ca807bcb6df391eeef6fdc63981ccbc807e706fe7f4d68030854fb45dadf42d4d5ff317aa964945329f96"
+
+[update]
+[update.modrinth]
+mod-id = "cmtGxfvI"
+version = "b1ApBgtF"

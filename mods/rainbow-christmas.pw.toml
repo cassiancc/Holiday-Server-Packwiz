@@ -1,13 +1,13 @@
 name = "Rainbow Christmas"
-filename = "RainbowChristmas-1.0.1+1.21.4.jar"
+filename = "RainbowChristmas-1.0.2+1.21.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3UPp4drQ/versions/z76FWqLr/RainbowChristmas-1.0.1%2B1.21.4.jar"
-hash-format = "sha1"
-hash = "f1667acb2d37566385dae01214216e395c4b984e"
+url = "https://cdn.modrinth.com/data/3UPp4drQ/versions/Vn0gntW7/RainbowChristmas-1.0.2%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "963cc2af09616e55d866eaba2ae3601d61810d9593c3f2b218c14daf3cb2d92f4401adfc88503cf4a65a067af2dcee835a52c557ae21bfaec98ec17fdf2e541b"
 
 [update]
 [update.modrinth]
 mod-id = "3UPp4drQ"
-version = "z76FWqLr"
+version = "Vn0gntW7"

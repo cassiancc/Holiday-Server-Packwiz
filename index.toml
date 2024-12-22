@@ -193,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "54c7845c9b72c2b89d7e82553d0616ee1ee4288b878a79d3d4168895e861a776"
+hash = "efe6d58f7ba80105053486bb6321bd1e364cf3bae9077d907b9e205413a80629"
 metafile = true
 
 [[files]]
@@ -243,7 +243,12 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "f57d03a76777795d43ca7ffb92e941d888c29aba29973ed5b3ff259cc0947680"
+hash = "b74cf2a124b451aac368ba93c28a4536f07a736f920fc76c8a5bdf36254aa7d6"
+metafile = true
+
+[[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "3850bc220c50f254847b7547c010d67da13e09b7b4632c343a51fd566706d0fe"
 metafile = true
 
 [[files]]
@@ -288,12 +293,17 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "0fbab4dd67daa45bf725ab61376c7b43f782d6b43f770a9f7e081622edf29689"
+hash = "127d7a682272ce34d92d7df93b7e495b744a967d894e52d1c59227e96319a95b"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "ced0910c871d77f956b478ab4e6075635dcb90af2d35d64f0739335992633f3c"
+metafile = true
+
+[[files]]
+file = "mods/leaves-us-in-peace.pw.toml"
+hash = "85dd955a1944a73d864058a50375f25f9e4b752a96a666f8006d1277fd02bdd2"
 metafile = true
 
 [[files]]
@@ -357,6 +367,11 @@ hash = "58624b54996bb08cabd5b926503716a2a740447c5145c6b145c9bad9c2951104"
 metafile = true
 
 [[files]]
+file = "mods/phantom-pillows.pw.toml"
+hash = "f4bcb0ba0d20b7f39ee11e03af79ffcadaeea00f7ef719d6c3f774783d1d4933"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "f8e9596e1c6345dab08b7bcd01a84409fe8a5dff84e01516be89081a3ad982a1"
 metafile = true
@@ -367,18 +382,23 @@ hash = "be4cedf95bc25bfd2bf0563f7b66675780c43abfcd48fb8bc02b2befb9efc46a"
 metafile = true
 
 [[files]]
+file = "mods/polyfactory.pw.toml"
+hash = "3b7882c6a65356902f6f2d0aa272068fb74e8bd4f564f8977672e5acbdbb98f7"
+metafile = true
+
+[[files]]
 file = "mods/polymer.pw.toml"
-hash = "32eb436bc2a4073b682b41ae1e90bb126ac6823b2b4af268964636e7e8c02150"
+hash = "68149e91e87ffd102cabbed7473823608ad8f6605c0fe932bb0e1c671c082d42"
 metafile = true
 
 [[files]]
 file = "mods/pyrite.pw.toml"
-hash = "8ceee3b072986f91727b4395c57dc97531b9f44028f72ac675063f31fa0b5278"
+hash = "7704ea1c5f4b5e00fced78bbadf8c0ee3ba0d1f31d1b4104bab014e43d422462"
 metafile = true
 
 [[files]]
 file = "mods/rainbow-christmas.pw.toml"
-hash = "e3b1f727ca805ebc2a187e78d288cf3327c2503f907b03c41509086e9309824f"
+hash = "b638134139d631e8cdc3cf896b8219019142c9b35b5d02232643d46a3ce4d0fb"
 metafile = true
 
 [[files]]
@@ -423,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "92e9b0a2761bcb614ca72150e7d41d1afb066b3efafd7268de804e0d1775ba98"
+hash = "c6ae02092faf1e839639394c41e12685e8788608dcaf2371962f13af5d1897db"
 metafile = true
 
 [[files]]
