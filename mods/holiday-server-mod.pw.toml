@@ -1,7 +1,7 @@
 name = "holiday-server-mod"
-filename = "holiday-server-mod-1.3.0+1.21.4.jar"
+filename = "holiday-server-mod-1.4.0+1.21.4.jar"
 
 [download]
-url = "https://mschae23.de/git/api/packages/mschae23/maven/de/mschae23/minecraft/mod/holiday-server-mod/1.3.0+1.21.4/holiday-server-mod-1.3.0+1.21.4.jar"
+url = "https://mschae23.de/git/api/packages/mschae23/maven/de/mschae23/minecraft/mod/holiday-server-mod/1.4.0+1.21.4/holiday-server-mod-1.4.0+1.21.4.jar"
 hash-format = "sha256"
-hash = "a19ebbdc65839aed6520b6542bea6627926b4570526a3e820a22aaa76214cdf5"
+hash = "d32fc31c02baa75a8aca13f228d0828ff32315c3f852673c7a1835c0aaae6109"

@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/holiday-server-mod.pw.toml"
-hash = "db4b0903f9b837fe7c12f1f6bb932083045528e682b6d6dc2e1b965cce2554ff"
+hash = "de325e29aa2119925b88a41a470be697022d4f8894e9078d16871cc0f2ed4812"
 metafile = true
 
 [[files]]
