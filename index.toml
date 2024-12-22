@@ -66,7 +66,7 @@ hash = "28dd72f6330880004fe9859315847a78af4037db1ba3348a2f28d59d361a2111"
 
 [[files]]
 file = "config/holiday-pack-version"
-hash = "482d9673cfee5de391f97fde4d1c84f9f8d6f2cf0784fcffb958b4032de7236c"
+hash = "ff2ccb6ba423d356bd549ed4bfb76e96976a0dcde05a09996a1cdb9f83422ec4"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -237,13 +237,18 @@ hash = "59d1e3ec613f8c38d043cfd9cf56306ca93e88ed59bdbdcc5aef6a97d46c56a8"
 metafile = true
 
 [[files]]
+file = "mods/durability-rework.pw.toml"
+hash = "56e36c271dd4cff30b8107ef4e9c0d57fa9312dd3ca020418a69e90dafeaa72b"
+metafile = true
+
+[[files]]
 file = "mods/ender-christmas+.pw.toml"
 hash = "c9302c4c8d9a03c7eb3c7ed15568851ac49122ef2a046d3a9b15f443e465de05"
 metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "b74cf2a124b451aac368ba93c28a4536f07a736f920fc76c8a5bdf36254aa7d6"
+hash = "f57d03a76777795d43ca7ffb92e941d888c29aba29973ed5b3ff259cc0947680"
 metafile = true
 
 [[files]]
@@ -383,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/polyfactory.pw.toml"
-hash = "3b7882c6a65356902f6f2d0aa272068fb74e8bd4f564f8977672e5acbdbb98f7"
+hash = "c64f40b7e5c33ffa5aed898cc2309b7e72b3fc7559123c3f151493638d72870b"
 metafile = true
 
 [[files]]
