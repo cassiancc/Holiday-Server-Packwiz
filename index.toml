@@ -248,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "f57d03a76777795d43ca7ffb92e941d888c29aba29973ed5b3ff259cc0947680"
+hash = "b74cf2a124b451aac368ba93c28a4536f07a736f920fc76c8a5bdf36254aa7d6"
 metafile = true
 
 [[files]]
