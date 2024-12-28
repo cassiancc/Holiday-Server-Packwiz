@@ -1,13 +1,13 @@
 name = "Expanded Storage"
-filename = "expandedstorage-fabric-1.21.4-16.0.0-beta.7.jar"
+filename = "expandedstorage-fabric-1.21.4-16.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jCCPlP3c/versions/NaBeL8yZ/expandedstorage-fabric-1.21.4-16.0.0-beta.7.jar"
-hash-format = "sha512"
-hash = "bf40b726da14211b12c33ff163295bcfef0f5a772f202b2172ee8988d01d9cd93e47fbbb8661a3b37e7ae024965bcd2e55a09be1c9119da7e0f8a93b40eadfc8"
+url = "https://cdn.modrinth.com/data/jCCPlP3c/versions/Ll2NK7oc/expandedstorage-fabric-1.21.4-16.0.1.jar"
+hash-format = "sha1"
+hash = "ecd055fe5bd674abb9592190bc36b3e1e093df3c"
 
 [update]
 [update.modrinth]
 mod-id = "jCCPlP3c"
-version = "NaBeL8yZ"
+version = "Ll2NK7oc"

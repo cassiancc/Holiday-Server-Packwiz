@@ -1,12 +1,12 @@
 name = "Holiday Server Pack"
 author = "cassiancc"
-version = "0.159.3"
+version = "0.210.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0eac622b82cf6d6d796822126e446bbbdd4ec512adbb51dde84c3e59b7b4b0d9"
+hash = "0c50a89f13740136687369a161235c4317e034cf5b3e5f37f35740465f87fa17"
 
 [versions]
 fabric = "0.16.9"

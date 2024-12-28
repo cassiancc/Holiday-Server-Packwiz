@@ -1,13 +1,13 @@
 name = "ClickThrough Plus"
-filename = "clickthrough-plus-3.1+1.21.2.jar"
+filename = "clickthrough-plus-3.2+1.21.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/fJi8nm80/versions/W0z0xh1p/clickthrough-plus-3.1%2B1.21.2.jar"
+url = "https://cdn.modrinth.com/data/fJi8nm80/versions/y8GcHqv3/clickthrough-plus-3.2%2B1.21.2.jar"
 hash-format = "sha1"
-hash = "45b6b0c57491b74ec1122bd522ea3335df65192e"
+hash = "910570ec5be38beb73449d0aa65eaf65065ecb49"
 
 [update]
 [update.modrinth]
 mod-id = "fJi8nm80"
-version = "W0z0xh1p"
+version = "y8GcHqv3"

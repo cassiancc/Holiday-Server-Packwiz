@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/brewery.pw.toml"
-hash = "2ea08836597e85d9b3f915ec3d98eb579b356faecac59a586c00ea739e54034f"
+hash = "ac0cfbc4a5de33f49d837b1a50943d61c628439365847fd4e4add302822c3044"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/clickthrough+.pw.toml"
-hash = "ec5353f8c659fec4761d55e914e518bbf9c18d60c1be18ea415b29e1d900cd22"
+hash = "daec91093b0aa03a827b518657e67bd7ee373388c3dd18af1d4b2d92ddfb993b"
 metafile = true
 
 [[files]]
@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/durability-rework.pw.toml"
-hash = "56e36c271dd4cff30b8107ef4e9c0d57fa9312dd3ca020418a69e90dafeaa72b"
+hash = "59166dcd1960f314583f936197b5fff2142e919fdeed0416522076fcae33fa8c"
 metafile = true
 
 [[files]]
@@ -248,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "b74cf2a124b451aac368ba93c28a4536f07a736f920fc76c8a5bdf36254aa7d6"
+hash = "c16ff5081dba669e6259ef01bcf706823c87fc5653b761925ebb245f1ff5a128"
 metafile = true
 
 [[files]]
@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "83e03e7595c1b32114530aa9c1ed9052f2721ab39f3efe9575326b5579e7ef89"
+hash = "6184fab619e2400c54f8fadbb81033eb7dea9a4934a2fc870c609514e475a7ac"
 metafile = true
 
 [[files]]
@@ -288,12 +288,12 @@ metafile = true
 
 [[files]]
 file = "mods/instant-feedback.pw.toml"
-hash = "570876add42e40d852927b7e1d4a83d4c91f8858f745d89cd38ff9b7b0143b0e"
+hash = "a3899324ed67541378dd1ca17ce4cff16012708ae32228b62e0d134408fcd154"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e10baf8868ec7d5d0188336f9bb36902f8e81b6e91dc82259041bbab70b30e96"
+hash = "08601df10fb926bbb8a0fe686b8c4d5f9019e06d39715dcc025d99e1ad2cee40"
 metafile = true
 
 [[files]]
@@ -398,7 +398,7 @@ metafile = true
 
 [[files]]
 file = "mods/pyrite.pw.toml"
-hash = "7704ea1c5f4b5e00fced78bbadf8c0ee3ba0d1f31d1b4104bab014e43d422462"
+hash = "37ed1258f811c862d82e479587e31844886234018d8d3b93c2f308a83e9c2a09"
 metafile = true
 
 [[files]]
@@ -433,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "cfde765eaa7cc6d90343a6cb093ef9f515ceb1e59517cd7acf5a25eaff3d305b"
+hash = "412193be248fc8a1898798abc46733361bbd6a7d79865531ee1ce7d3904d1b29"
 metafile = true
 
 [[files]]

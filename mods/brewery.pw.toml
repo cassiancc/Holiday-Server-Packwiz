@@ -1,13 +1,13 @@
 name = "Patbox's Brewery"
-filename = "brewery-0.10.0+1.21.4-rc3.jar"
+filename = "brewery-0.10.1+1.21.4.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/nr7cSJlY/versions/f0lS7PWn/brewery-0.10.0%2B1.21.4-rc3.jar"
+url = "https://cdn.modrinth.com/data/nr7cSJlY/versions/esH7JDyt/brewery-0.10.1%2B1.21.4.jar"
 hash-format = "sha1"
-hash = "d6d1efab3bb2442219e85e2b22ad3f8f8b197a27"
+hash = "dbb2ed8f50917182b0d93795e540041e531ffe14"
 
 [update]
 [update.modrinth]
 mod-id = "nr7cSJlY"
-version = "f0lS7PWn"
+version = "esH7JDyt"
