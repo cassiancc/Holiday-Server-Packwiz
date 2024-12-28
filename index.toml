@@ -66,7 +66,7 @@ hash = "28dd72f6330880004fe9859315847a78af4037db1ba3348a2f28d59d361a2111"
 
 [[files]]
 file = "config/holiday-pack-version"
-hash = "ff2ccb6ba423d356bd549ed4bfb76e96976a0dcde05a09996a1cdb9f83422ec4"
+hash = "d29d53701d3c859e29e1b90028eec1ca8e2f29439198b6e036c60951fb458aa1"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/holiday-server-mod.pw.toml"
-hash = "de325e29aa2119925b88a41a470be697022d4f8894e9078d16871cc0f2ed4812"
+hash = "b4fd66e1cec9c7c1bd94d2d81c3d0e0dedbe182c361143049b67ae64a6057f10"
 metafile = true
 
 [[files]]
